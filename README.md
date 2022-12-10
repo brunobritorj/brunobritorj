@@ -16,5 +16,8 @@ Here is a list with sample deployments:
  
   Pipeline on **GitHub Actions** which uses **Terraform** to deploy **Azure** resources (ACR + AKS).
 
+- 🧪 [grafana-prometheus-fastapi](https://github.com/brunobritorj/grafana-prometheus-fastapi)
+
+  **Docker Compose** example to show how to use **Prometheus** and **Grafana** to monitor a FastAPI app.
+
 See you!
-  
