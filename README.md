@@ -20,4 +20,8 @@ Here is a list with sample deployments:
 
   **Docker Compose** example to show how to use **Prometheus** and **Grafana** to monitor a FastAPI app.
 
+- 🧪 [terraform-azure](https://github.com/brunobritorj/terraform-azure)
+
+  Deploy **Azure** resources using **Terraform** samples. Build a lab quick and easy. 
+  
 See you!
