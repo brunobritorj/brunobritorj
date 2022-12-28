@@ -23,5 +23,9 @@ Here is a list with sample deployments:
 - 🧪 [terraform-azure](https://github.com/brunobritorj/terraform-azure)
 
   Deploy **Azure** resources using **Terraform** samples. Build a lab quick and easy. 
-  
+
+- 📦 [azdevops-selfhosted-container-agent](https://github.com/brunobritorj/azdevops-selfhosted-container-agent)
+
+  A self-hosted container agent for **Azure DevOps** pipelines. Run this image in your container orchestration and assign it to your Az DevOps organization.
+
 See you!
