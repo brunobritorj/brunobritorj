@@ -2,6 +2,10 @@
 
 Here is a list with sample deployments:
 
+- ☸️ [terraform-k3s-lab](https://github.com/brunobritorj/terraform-k3s-lab)
+
+  Lab environment which runs **K3s** on **Azure VMs** deployed via **Terraform**.
+  
 - 🚀 [azdevops/brunobritorj/terraform-azure-k8s/terraform-azure-k8s](https://dev.azure.com/brunobritorj/terraform-azure-k8s/_git/terraform-azure-infra)
 
   Pipeline on **Azure DevOps** which uses **Terraform** to deploy **Azure** resources (ACR + AKS) and configure Az DevOps service accounts to establish connections to the deployed resources.
